@@ -1,0 +1,7 @@
+[28-Apr-2020 10:49:24 UTC] PHP Notice:  Undefined index: device in /home/linkedem/public_html/muslimsmayday/dh/pt967478224767/app/services/api.php on line 625
+[28-Apr-2020 10:49:24 UTC] PHP Notice:  Undefined index: email in /home/linkedem/public_html/muslimsmayday/dh/pt967478224767/app/services/api.php on line 626
+[28-Apr-2020 10:49:24 UTC] PHP Notice:  Undefined index: regid in /home/linkedem/public_html/muslimsmayday/dh/pt967478224767/app/services/api.php on line 627
+[28-Apr-2020 10:49:24 UTC] PHP Notice:  Undefined index: phone_id in /home/linkedem/public_html/muslimsmayday/dh/pt967478224767/app/services/api.php on line 628
+[28-Apr-2020 22:39:33 UTC] PHP Notice:  Undefined index: id in /home/linkedem/public_html/muslimsmayday/dh/pt967478224767/app/services/api.php on line 203
+[28-Apr-2020 22:48:36 UTC] PHP Notice:  Undefined index: id in /home/linkedem/public_html/muslimsmayday/dh/pt967478224767/app/services/api.php on line 203
+[28-Apr-2020 22:49:05 UTC] PHP Notice:  Undefined index: id in /home/linkedem/public_html/muslimsmayday/dh/pt967478224767/app/services/api.php on line 203
